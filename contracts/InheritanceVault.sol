@@ -29,7 +29,7 @@ contract InheritanceVault {
 
     uint256 public lastActive;
     uint256 public inactivityTimeout;   // e.g., 90 days
-    uint256 public challengePeriod;     // e.g., 14 days
+    uint256 public challengePeriod;     // e.g., 30 days
 
     bool public claimOpen;
     uint256 public claimInitiatedAt;
