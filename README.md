@@ -17,10 +17,6 @@ augmented by a privacy-preserving **Digital Profile** module.
 - `Digital Profile`: builds a structured, interpretable portrait from authorized text
 - `Style Writer`: rewrites a message in a person’s writing style (no LLM required; deterministic + explainable)
 - `Bundle Encryption`: encrypt/decrypt a legacy bundle (AES-GCM) locally (demo-grade)
-
-### Docs (research + ethics)
-- Threat model, privacy model, and a research-style motivation write-up
-
 ---
 
 ## Quickstart (Digital Profile demo)
